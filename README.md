@@ -1,5 +1,5 @@
 # Minjshell
-![GOOOD (2)](https://github.com/user-attachments/assets/64be8074-b940-4021-a12d-55502c639688)
+![MINJSHELL LOGO image](assets/minjshell_logo.jpg)
 <br/>
 <br/>
 
@@ -8,7 +8,7 @@
 - 프로젝트 설명: bash 쉘의 미니 버전 구현 
 (입력 문자열을 파싱하여 명령어와 리다이렉션 구조체로 분리하고,<br> 
 단일 명령, 파이프, 빌트인/외부 명령 실행, fork/exec, 리다이렉션, 히어독을 처리)
-<img width="591" height="400" alt="screens_mini" src="https://github.com/user-attachments/assets/b4b8c7f8-01b6-40d5-98fd-fdcb75e2302d" />
+![MINJSHELL TERMINAL image](assets/minjshell_terminal.png)
 
 
 
