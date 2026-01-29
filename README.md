@@ -8,11 +8,8 @@
 - 프로젝트 설명: bash 쉘의 미니 버전 구현 
 (입력 문자열을 파싱하여 명령어와 리다이렉션 구조체로 분리하고,<br> 
 단일 명령, 파이프, 빌트인/외부 명령 실행, fork/exec, 리다이렉션, 히어독을 처리)
+
 ![MINJSHELL TERMINAL image](assets/minjshell_terminal.png)
-
-
-
-
 <br/>
 <br/>
 
